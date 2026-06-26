@@ -9,3 +9,12 @@ Features:
 - Responsive Design
 
 Developed for college project submission.
+
+## Technologies used
+
+- HTML
+- CSS
+
+## Author
+
+Devi Neelam
